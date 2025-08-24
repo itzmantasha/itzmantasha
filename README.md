@@ -2,7 +2,7 @@
 
 💻 **Software Engineer @ Cisco Systems** | Backend Developer | Java | Spring Boot | Python | Flask  
 
-📫 **Reach me at**: [Email](mailto:zubymantasha@gmail.com) | [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) | [GitHub](https://github.com/itzmantasha) | [LeetCode](https://leetcode.com/YOUR-LEETCODE)  
+📫 **Reach me at**: [Email](mailto:zubymantasha@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zuby-mantasha-266b2520a) | [GitHub](https://github.com/itzmantasha) | [LeetCode](https://leetcode.com/u/leetcoderz/)  
 
 ---
 
